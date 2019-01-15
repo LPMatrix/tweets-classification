@@ -12,8 +12,6 @@ from sklearn.model_selection import train_test_split
 from sklearn.pipeline import Pipeline
 from sklearn.metrics import classification_report
 
-# Fill the X's with the credentials obtained by 
-# following the above mentioned procedure. 
 consumer_key = "XXXXXXXXXX"
 consumer_secret = "XXXXXXXX"
 access_key = "XXXXXX"
