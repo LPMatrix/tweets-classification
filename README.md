@@ -1,13 +1,13 @@
 # Tweets-classification
 An ML model to classify tweets
 # How to
-run the index.py file to execute the tweets claasification model
+run the index.py file to execute the tweets classification model
 
-the fetch.py file contains the code for fetching users tweets
+the fetch.py file contains the code for fetching users' tweets
 # Steps taken
 Fetch and save tweets from twitter
 
-Load the twees to the program
+Load the tweets to the program
 
 Preprocess the data
 
