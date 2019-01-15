@@ -5,7 +5,6 @@ import string
 from nltk.corpus import stopwords
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.feature_extraction.text import TfidfTransformer
-from sklearn.naive_bayes import MultinomialNB
 from sklearn.model_selection import train_test_split
 from sklearn.pipeline import Pipeline
 from sklearn.metrics import classification_report
@@ -44,6 +43,7 @@ pipeline = Pipeline([
     ('bow',CountVectorizer(analyzer=text_process)),
     ('tfidf',TfidfTransformer()),
     ('classifier',RandomForestClassifier(n_estimators=200))
+    ('classifier',MultinomialNB())
     ])
 
 pipeline.fit(X_train,y_train)
@@ -52,3 +52,6 @@ predictions = pipeline.predict(X_test)
 print(classification_report(y_test,predictions))
 # user_tweet = input("Drop the tweet here, let's find the person ")
 # print(pipeline.predict([user_tweet]))
+# print(classification_report(y_test,predictions))
+user_tweet = input("Drop the tweet here, let's find the person ")
+print(pipeline.predict([user_tweet]))

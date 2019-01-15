@@ -11,11 +11,13 @@ from sklearn.naive_bayes import MultinomialNB
 from sklearn.model_selection import train_test_split
 from sklearn.pipeline import Pipeline
 from sklearn.metrics import classification_report
- 
-consumer_key = "OpcgvrH0SfqOSJYZ79lT3mQ2e"
-consumer_secret = "oG7YgT7zBNSWnoOh20rtzSqtDUDscyCBdxczzBAQIrOL3s5rlF"
-access_key = "2976903581-uShVPpOE2S8JuivrowGmgI14FZaiuXlVlL4b0Fu"
-access_secret = "sqBT2u65IFbdOgm1UWMd4w1Ww3Jc1DyipYuJUGigxwf1w"
+
+# Fill the X's with the credentials obtained by 
+# following the above mentioned procedure. 
+consumer_key = "XXXXXXXXXX"
+consumer_secret = "XXXXXXXX"
+access_key = "XXXXXX"
+access_secret = "XXXXXXXXX"
 
 username = input('Which handle do you want tweets from? ')
 
