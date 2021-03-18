@@ -5,14 +5,15 @@ The developers of this application would not be held responsible for any misuse 
 
 
 PARTICIPANTS
+
 The data used to build this application is gotten from Twitter. This information is generally available to the public and it in no way violates the users data rights. However, consent was still obtained from the users.
 The following users consented to the use of their data:
-Sanusi Ismaila
-Robert Thas
-Mercy Markus
-Osamudiamen
-Pablo Okwukogu
-Segun
+1. Sanusi Ismaila
+2. Robert Thas
+3. Mercy Markus
+4. Osamudiamen
+5. Pablo Okwukogu
+6. Segun
 Ifeanyi Morah
 Adinoyi Sadiq
 Umar
