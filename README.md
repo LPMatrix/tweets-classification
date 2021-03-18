@@ -1,4 +1,4 @@
-# Tweets-classification
+# SCRAPY
 Scrapy is a tweet classification application that mines data from user profiles. The data mined from user profiles is used to predict the user that is most likely to post a particular tweet. Publicly available tweets are extracted, transformed and trained to build this application.
 The developers of this application would not be held responsible for any misuse of the application as it was created solely for educational purposes.
 (Please read the license for more information)
