@@ -4,7 +4,7 @@ The developers of this application would not be held responsible for any misuse 
 (Please read the license for more information)
 
 
-PARTICIPANTS
+## PARTICIPANTS
 
 The data used to build this application is gotten from Twitter. This information is generally available to the public and it in no way violates the users data rights. However, consent was still obtained from the users.
 The following users consented to the use of their data:
@@ -14,20 +14,20 @@ The following users consented to the use of their data:
 4. Osamudiamen
 5. Pablo Okwukogu
 6. Segun
-Ifeanyi Morah
-Adinoyi Sadiq
-Umar
-Aliyu
-Joy Victor
-Mubaraq Sanusi
-Kwatmi Tyron
-Ane Itodo
-Oluwasanmi Onemano
-Abijah Johnnie
-Segun Babalola
-Tobi
-Gabriel Arowosegbo
-Abdulhakeem
+7. Ifeanyi Morah
+8. Adinoyi Sadiq
+9. Umar
+10. Aliyu
+11. Joy Victor
+12. Mubaraq Sanusi
+13. Kwatmi Tyron
+14. Ane Itodo
+15. Oluwasanmi Onemano
+16. Abijah Johnnie
+17. Segun Babalola
+18. Tobi
+19. Gabriel Arowosegbo
+20. Abdulhakeem
 
 
 # How to
